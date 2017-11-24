@@ -16,6 +16,7 @@ cache:
 deploy:
   provider: pages
   skip_cleanup: true
+  local_dir: build/jbake
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
     branch: master
