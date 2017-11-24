@@ -1,0 +1,12 @@
+= Welcome
+Janine Patterson
+2017-11-24
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: blog, asciidoc
+:idprefix:
+
+Welcome to my new website!
+
+This is my first attempt at creating and maintaining my own site on its own domain.  I started simple with jbake, and deploy to
+gh pages through travis-ci.
