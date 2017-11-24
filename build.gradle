@@ -13,6 +13,15 @@ plugins {
     id 'org.jbake.site' version '1.0.0'
 }
 
+task copyCname(type: Copy) {
+    from 'CNAME'
+    into 'build/jbake'
+}
+
+tasks['copyCname'].mustRunAfter bake
+
+build.dependsOn bake, tasks['copyCname']
+
 task wrapper(type: Wrapper) {
     gradleVersion = '4.3.1'
 }
