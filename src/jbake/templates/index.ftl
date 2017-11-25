@@ -3,6 +3,7 @@
 <#include "menu.ftl">
 
 <div class="page-header">
+    <img src="images/chicago_skyline.jpg"/>
     <h1>Janine Patterson</h1>
 </div>
 <#list posts as post>
