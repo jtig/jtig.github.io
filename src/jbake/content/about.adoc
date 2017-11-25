@@ -1,17 +1,17 @@
-= About Me - Janine Patterson
+= Janine Patterson
 Janine Patterson
 2017-11-24
 :jbake-type: page
 :jbake-status: published
 :idprefix:
 
+== About Me
 I've been doing software development for 10 years, and am currently a Senior Software Engineer in Chicago. My experience is mostly based
 on backend development in Java.
 
 My hobbies include playing video games, listening to podcasts, and watching bad movies.
 
-
-==== Development Community
+== Development Community
 * https://www.meetup.com/ChicagoJUG/[Chicago Java Users Group]
 ** Executive Board Member
 ** Mentor for CJUG Office Hours once a month
