@@ -5,7 +5,7 @@
 
 <div id="footer">
     <div class="container">
-        <p class="muted credit">&copy; ${date?string.yyyy} | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked
+        <p class="muted credit">&copy; ${date?string.yyyy} | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.3.7</a> | Baked
             with <a href="http://jbake.org">JBake ${version}</a></p>
     </div>
 </div>
