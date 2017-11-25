@@ -1,0 +1,6 @@
+= Blog
+Janine Patterson
+2017-11-24
+:jbake-type: blog
+:jbake-status: published
+:idprefix:

@@ -1,0 +1,8 @@
+= About Me
+Janine Patterson
+2017-11-24
+:jbake-type: page
+:jbake-status: published
+:idprefix:
+
+Hi!  My name is Janine Patterson and I'm a Senior Software Engineer from Chicago.
