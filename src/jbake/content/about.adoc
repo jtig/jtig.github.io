@@ -1,8 +1,25 @@
-= About Me
+= About Me - Janine Patterson
 Janine Patterson
 2017-11-24
 :jbake-type: page
 :jbake-status: published
 :idprefix:
 
-Hi!  My name is Janine Patterson and I'm a Senior Software Engineer from Chicago.
+I've been doing software development for 10 years, and am currently a Senior Software Engineer in Chicago. My experience is mostly based
+on backend development in Java.
+
+My hobbies include playing video games, listening to podcasts, and watching bad movies.
+
+
+==== Development Community
+* https://www.meetup.com/ChicagoJUG/[Chicago Java Users Group]
+** Executive Board Member
+** Mentor for CJUG Office Hours once a month
+* Junior Workshop Teacher
+** GOTO Junior 2017 – Modding Minecraft in Java for kids
+** Hak4Kidz 2017 – Modding Minecraft in Java for kids
+* Amateur Speaker
+** JavaOne 2017
+*** Joint Speaker - How to Build a Successful Java User Group
+*** Represented CJUG in a skit during the Community Keynote
+** DevNexus 2018 - Integration Test Coverage with JaCoCo (upcoming talk)

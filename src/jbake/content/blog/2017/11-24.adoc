@@ -8,5 +8,9 @@ Janine Patterson
 
 Welcome to my new website!
 
-This is my first attempt at creating and maintaining my own site on its own domain.  I started simple with jbake, and deploy to
-gh pages through travis-ci.
+This is my first attempt at creating and maintaining my own site on its own domain.  I started simple with JBake, and deploy to
+GitHub Pages through Travis CI.  To get the site working with ssl I created a Cloudflare account and updated the dns settings on my
+domain to go through Cloudflare.
+
+I've owned this domain for a few months and am finally getting around to building a site.  I thought it would be fun to document the
+process I'm taking to work on my next talk at DevNexus in 2018.
